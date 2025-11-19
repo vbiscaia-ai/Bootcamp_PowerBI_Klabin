@@ -1,0 +1,11 @@
+# Texto: forçar LF no repositório para arquivos Markdown e código
+*.md text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.sql text eol=lf
+
+# Binários (não converter)
+*.pbix binary
+*.png binary
+*.jpg binary
+*.jpeg binary
