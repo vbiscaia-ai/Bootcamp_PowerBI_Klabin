@@ -3,9 +3,9 @@
 🎯 **Objetivo**  
 Este projeto tem como finalidade transformar a tabela única **Financial Sample** em um modelo dimensional (esquema em estrela), estruturado para análises eficientes no Power BI. A modelagem inclui tabelas dimensão e fato, criação de calendário via DAX, medidas agregadas e um relatório extra comparativo entre produtos.
 
-- [📊 Dax_Starschema.pbix (download)](https://github.com/vbiscaia-ai/Relatorio_vendas_dax/raw/main/docs/Dax_Starschema.pbix)
+📊 [Dax_Starschema.pbix](./docs/Dax_Starschema.pbix)
 
----![Star Schema - Modelo Dimensional](https://github.com/vbiscaia-ai/Relatorio_vendas_dax/blob/main/docs/Star_schema_vendas.png)
+![Star Schema - Modelo Dimensional](./docs/Star_schema_vendas.png)
 
 🧠 **Escopo da Análise**  
 O modelo permite responder perguntas como:  
@@ -81,7 +81,7 @@ Contém os eventos de venda por produto e data.
 ### D_Calendário  
 Criada via DAX com `CALENDARAUTO()` para gerar automaticamente um intervalo contínuo de datas com base nas tabelas do modelo.
 
-![Tabela Date DAX](https://github.com/vbiscaia-ai/Relatorio_vendas_dax/blob/main/docs/tabela_date_dax.png)
+![Tabela Date DAX](./docs/tabela_date_dax.png)
 
 **Campos principais:**  
 • DateKey  
@@ -98,7 +98,7 @@ Criada via DAX com `CALENDARAUTO()` para gerar automaticamente um intervalo cont
 📊 **Relatório Extra**  
 Foi desenvolvido um relatório adicional no Power BI que permite comparar as vendas do produto **Paseo** com as vendas de todos os outros produtos. Utiliza medidas DAX para isolar o contexto e calcular percentuais de participação.
 
-![Relatório Power BI](https://github.com/vbiscaia-ai/Relatorio_vendas_dax/blob/main/docs/relatorio.png)
+![Relatório Power BI](./docs/relatorio.png)
 
 ---
 
@@ -121,10 +121,10 @@ Foi desenvolvido um relatório adicional no Power BI que permite comparar as ven
 
 ---
 
-📌 **Exemplo de Fórmula DAX**  -- [📄 dax_formulas.md](https://github.com/vbiscaia-ai/Relatorio_vendas_dax/blob/main/docs/dax_formulas.md)
+📌 **Exemplo de Fórmula DAX**  -- 📄 [dax_formulas.md](./docs/dax_formulas.md)
 
 
-![Funções DAX](https://github.com/vbiscaia-ai/Relatorio_vendas_dax/blob/main/docs/funções_dax.png)
+![Funções DAX](./docs/funções_dax.png)
 
 **Total Sales**
 ```dax

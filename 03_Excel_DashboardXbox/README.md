@@ -13,7 +13,7 @@ A análise foi construída em Excel, utilizando Tabelas Dinâmicas, Segmentaçõ
 ## 🖼️ Destaque Visual: Gráfico Pictórico
 O dashboard utiliza um **gráfico pictórico** para representar visualmente os dados de vendas, tornando a análise mais intuitiva e atrativa.
 
-![Gráfico Pictórico](https://raw.githubusercontent.com/vbiscaia-ai/Dashboard-xbox/main/docs/pictorio.png)
+![Pictorio](./docs/pictorio.png)
 
 ---
 
@@ -44,7 +44,7 @@ O dashboard conta com um **menu interativo de meses**, que permite:
 - **Clicar em um mês** para análise isolada.  
 - **Clicar, segurar e arrastar** para selecionar vários meses simultaneamente.
 
-![Menu de Segmentação de Meses](https://raw.githubusercontent.com/vbiscaia-ai/Dashboard-xbox/main/docs/menu_dashboard.png)
+![Menu Dashboard](./docs/menu_dashboard.png)
 
 ---
 
