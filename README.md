@@ -1,6 +1,6 @@
 # 📦 Bootcamp DIO × Klabin — Ciência de Dados & Analytics
 
-Este repositório reúne meus estudos, atividades e projetos desenvolvidos ao longo do **Bootcamp DIO × Klabin**, focado na aplicação de Ciência de Dados, BI e Analytics em contextos industriais.
+Este repositório reúne meus estudos, atividades e projetos desenvolvidos ao longo do **Bootcamp DIO × Klabin**, focado na aplicação de Ciência de Dados, BI e Analytics.
 
 📆 **Período:** 2025  
 🏭 **Organização:** DIO + Klabin  
