@@ -2,7 +2,7 @@
 
 Este projeto apresenta um painel interativo desenvolvido no Power BI, com foco em análise de métricas financeiras como **Profit**, **Sales**, **Discounts**, **Manufacturing Price** e **Gross Sales**. A navegação é feita por meio de **parâmetro de campo**, permitindo ao usuário alternar entre diferentes indicadores com um único slicer.
 
-![Relatório Pag1](./Docs/pag1.png)
+![Relatório Pag1](Docs/pag1.png))
 
 ## 🧩 Funcionalidade implementada
 
